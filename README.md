@@ -1,4 +1,4 @@
 # WSB-TOR
- Configuration and script files for a Tor Windows Sandbox Environment
+ Configuration and script files for a simple and convenient Tor Windows Sandbox Environment!
  
  **Installation**
