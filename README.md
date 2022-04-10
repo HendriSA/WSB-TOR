@@ -52,14 +52,14 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is the first of many in a series of "Windows Sandbox Tools" which I plan to assemble in an attempt to allow the deployment of secure and disposable Windows Sandboxes in just seconds! In particular this variation creates a disposable Tor environment for use in infosec operations or by privacy enthusiasts.
+This is the first of many in a series of "Windows Sandbox Tools" which I plan to assemble in an attempt to allow the deployment of secure and disposable Windows Sandboxes in just seconds! In particular, this variation creates a disposable Tor environment for use in infosec operations or by privacy enthusiasts.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 ### Built With
-* [Powershell](https://docs.microsoft.com/en-us/powershell/)
+* [PowerShell](https://docs.microsoft.com/en-us/powershell/)
 * [Windows Sandbox](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -78,16 +78,16 @@ To utilize this script, Windows Sandbox must be enabled within "Widows Features"
 3. Within the Windows Features pop-up menu, select the "Windows Sandbox" checkbox.
 4. Press OK (You may need to restart your PC.)
 
->**NOTE:** A CPU with hardware virtualization enabled is required, as well as Virtualization capabilities enabled in BIOS. for more information on the requirements of running Windows Sandbox visit: https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview
+>**NOTE:** A CPU with hardware virtualization enabled is required, as well as Virtualization capabilities enabled in BIOS. For more information on the requirements of running Windows Sandbox, visit: https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview
 
 ### Installation
-1. <a href="https://github.com/HendriSA/WSB-TOR/releases">Download</a> the latest WSB-TOR realease executable.
+1. <a href="https://github.com/HendriSA/WSB-TOR/releases">Download</a> the latest WSB-TOR release executable.
 2. Navigate the Setup Wizard and install the project in the desired location<br />
--**NOTE:** Changing this location will require changes to the powershell script - see <a href="#usage">Usage</a></li>
+-**NOTE:** Changing this location will require changes to the PowerShell script - see <a href="#usage">Usage</a></li>
 3. Launch the application using the "WSB-TOR.wsb" shortcut.
 <br />
 
->**NOTE:** Auto-starting the application post-installation will throw an error. This is benign and can be ignored. Instead use the WSB-TOR.wsb shortcut to launch your Sandbox.
+>**NOTE:** Auto-starting the application post-installation will throw an error. This is benign and can be ignored. Instead, use the WSB-TOR.wsb shortcut to launch your Sandbox.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -97,7 +97,7 @@ To utilize this script, Windows Sandbox must be enabled within "Widows Features"
 <!-- USAGE EXAMPLES -->
 ## Usage
 To install this project in a custom location - not the _Public Downloads_ folder:
-1. Select and install the project in the the desired location.
+1. Select and install the project in the desired location.
 2. Navigate to the location you have installed the project.
 3. Modify the Tor_Sandbox.wsb file with your desired text editor.
 4. Set the "Host Folder" field to your selected download location
