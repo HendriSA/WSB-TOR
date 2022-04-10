@@ -1,7 +1,7 @@
 # WSB-TOR
  Configuration and script files for a simple and convenient Tor Windows Sandbox Environment!
  
- 
+ ![thumb__indows__andbox](https://user-images.githubusercontent.com/101996011/162627581-e9cd75e6-905a-463d-b3c0-941f17cadda5.png)
  
  ## Prerequisites:
  To utilize this script Windows Sandbox must be enabled within "Widows Features".
