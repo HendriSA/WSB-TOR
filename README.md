@@ -1,5 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/HendriSA/WSB-TOR?color=green) ![GitHub release (latest by date)](https://img.shields.io/github/downloads/HendriSA/WSB-TOR/latest/total?color=green&label=Downloads) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/HendriSA/WSB-TOR?label=Version%201.0&logo=Tor%20Browser) 
 <div id="top"></div>
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/HendriSA/WSB-TOR?label=version%201.0&logo=Windows">
 <!-- PROJECT LOGO -->
 
 <br />
