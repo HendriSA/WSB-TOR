@@ -4,11 +4,11 @@
  ![thumb__indows__andbox](https://user-images.githubusercontent.com/101996011/162627581-e9cd75e6-905a-463d-b3c0-941f17cadda5.png)
  
  ## Prerequisites:
- To utilize this script Windows Sandbox must be enabled within "Widows Features".
+ To utilize this script, Windows Sandbox must be enabled within "Widows Features".
  To enable this feature:
  1. Press “Windows + R” on your keyboard to open the Run box and type “optionalfeatures”.
  2. Press OK.
- 3. Within the Windows Features pop-up menu select the "Windows Sandbox" checkbox. 
+ 3. Within the Windows Features pop-up menu, select the "Windows Sandbox" checkbox. 
  4. Press OK (You may need to restart your PC.)
  
  **NOTE:** 
