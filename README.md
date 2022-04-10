@@ -94,7 +94,7 @@ To utilize this script, Windows Sandbox must be enabled within "Widows Features"
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-To install this project in a custom location "not the _Public Downloads_ folder:
+To install this project in a custom location - not the _Public Downloads_ folder:
 1. Select and install the project in the the desired location.
 2. Navigate to the location you have installed the project.
 3. Modify the Tor_Sandbox.wsb file with your desire text editor.
