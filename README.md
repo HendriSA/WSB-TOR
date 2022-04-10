@@ -1,2 +1,2 @@
 # WSB-TOR
- Config and script files for tor Windows Sandboc Environment
+ Config and script files for tor Windows Sandbox Environment
