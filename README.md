@@ -52,7 +52,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
 This is the first of many in a series of "Windows Sandbox Tools" which I plan to assemble in an attempt to allow the deployment of secure and disposable Windows Sandboxes in just seconds! In particular this variation creates a disposable Tor environment for use in infosec operations or by privacy enthusiasts.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -60,21 +59,15 @@ This is the first of many in a series of "Windows Sandbox Tools" which I plan to
 
 
 ### Built With
-
 * [Powershell](https://docs.microsoft.com/en-us/powershell/)
 * [Windows Sandbox](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview)
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
-
 To utilize this script, Windows Sandbox must be enabled within "Widows Features". To enable this feature:
 
 1. Press “Windows + R” on your keyboard to open the Run box and type “optionalfeatures”.
@@ -101,16 +94,15 @@ To utilize this script, Windows Sandbox must be enabled within "Widows Features"
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+To install this project in a custom location "not the _Public Downloads_ folder:
+1. Select and install the project in the the desired location.
+2. Navigate to the location you have installed the project.
+3. Modify the Tor_Sandbox.wsb file with your desire text editor.
+4. Set the "Host Folder" field to your selected download location
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
-
 Sam Hendrickson - [@LinkedIn](https://www.linkedin.com/in/samuel-hendrickson3/) - HendriSA@alfredstate.edu
 
 Project Link: [https://github.com/HendriSA/WSB-TOR](https://github.com/HendriSA/WSB-TOR)
