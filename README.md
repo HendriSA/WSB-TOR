@@ -16,7 +16,7 @@
     <a href="https://github.com/HendriSA/WSB-TOR"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/HendriSA/WSB-TOR">View Demo</a>
+    <a href="https://vimeo.com/697964573">View Demo</a>
     ·
     <a href="https://github.com/HendriSA/WSB-TOR/issues">Report Bug</a>
     ·
