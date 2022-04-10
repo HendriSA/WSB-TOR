@@ -1,0 +1,13 @@
+<Configuration>
+  <VGpu>Disable</VGpu>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>C:\Users\Public\Downloads</HostFolder>
+      <SandboxFolder>C:\Users\WDAGUtilityAccount\Downloads</SandboxFolder>
+      <ReadOnly>true</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+  <LogonCommand>
+    <Command>powershell -executionpolicy unrestricted -command "start powershell {-file C:\Users\WDAGUtilityAccount\Downloads\script.ps1}"</Command>
+  </LogonCommand>
+</Configuration>
