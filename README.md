@@ -87,7 +87,7 @@ To utilize this script, Windows Sandbox must be enabled within "Widows Features"
 3. Launch the application using the "WSB-TOR.wsb" shortcut.
 <br />
 
-**Note** Auto-starting the application post-installation will throw an error. This is benign and can be ignored. Instead use the WSB-TOR.wsb shortcut to launch your Sandbox.
+**NOTE:** Auto-starting the application post-installation will throw an error. This is benign and can be ignored. Instead use the WSB-TOR.wsb shortcut to launch your Sandbox.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
