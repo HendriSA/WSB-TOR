@@ -1,5 +1,5 @@
 <div id="top"></div>
-https://img.shields.io/badge/Version-1.0-informational<Version>-<1.0>-<informational>
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/HendriSA/WSB-TOR?label=version%201.0&logo=Windows">
 <!-- PROJECT LOGO -->
 
 <br />
