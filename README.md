@@ -1,22 +1,11 @@
 <div id="top"></div>
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-[![Issues][issues-shield]][https://github.com/HendriSA/WSB-TOR/issues]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/samuel-hendrickson3/]
 
 <!-- PROJECT LOGO -->
 
 <br />
-
-![thumb__indows__andbox](https://user-images.githubusercontent.com/101996011/162627581-e9cd75e6-905a-463d-b3c0-941f17cadda5.png)
-
+<div align="center">
+  ![thumb__indows__andbox](https://user-images.githubusercontent.com/101996011/162627581-e9cd75e6-905a-463d-b3c0-941f17cadda5.png)
+</div>
   <h3 align="center">WSB-TOR</h3>
 
   <p align="center">
