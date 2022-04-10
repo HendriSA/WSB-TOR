@@ -88,7 +88,11 @@ To utilize this script, Windows Sandbox must be enabled within "Widows Features"
 **NOTE:** A CPU with hardware virtualization enabled is required, as well as Virtualization capabilities enabled in BIOS. for more information on the requirements of running Windows Sandbox visit: https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview
 
 ### Installation
-
+1. Download the latest WSB-TOR realease executable.
+2. Navigate the Setup Wizard and install the project in the desired location
+	**Note** Chaging this location will require changes to the powershell script - see <a href="#usage">Usage</a></li>
+3. Launch the application using the "WSB-TOR.wsb" shortcut.
+	**Note** Auto-starting the application post-installation will throw an error. This is benign and can be ignored. Instead use the WSB-TOR.wsb shortcut to launch your Sandbox.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
