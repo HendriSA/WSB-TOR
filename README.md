@@ -8,15 +8,14 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Issues][issues-shield]https://github.com/HendriSA/WSB-TOR/issues][issues-url]
-[![LinkedIn][linkedin-shield]https://www.linkedin.com/in/samuel-hendrickson3/][linkedin-url]
+[![Issues][issues-shield]][https://github.com/HendriSA/WSB-TOR/issues]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/samuel-hendrickson3/]
 
 <!-- PROJECT LOGO -->
+
 <br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+
+![thumb__indows__andbox](https://user-images.githubusercontent.com/101996011/162627581-e9cd75e6-905a-463d-b3c0-941f17cadda5.png)
 
   <h3 align="center">WSB-TOR</h3>
 
@@ -62,8 +61,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-![thumb__indows__andbox](https://user-images.githubusercontent.com/101996011/162627581-e9cd75e6-905a-463d-b3c0-941f17cadda5.png)
 
 This is the first of many in a series of "Windows Sandbox Tools" which I plan to assemble in an attempt to allow the deployment of secure and disposable Windows Sandboxes in just seconds! In particular this variation creates a disposable Tor environment for use in infosec operations or by privacy enthusiasts.
 
@@ -119,7 +116,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-Sam Hendrickson - [@linkedin](https://www.linkedin.com/in/samuel-hendrickson3/) - HendriSA@alfredstate.edu
+Sam Hendrickson - [@LinkedIn](https://www.linkedin.com/in/samuel-hendrickson3/) - HendriSA@alfredstate.edu
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/HendriSA/WSB-TOR)
 
