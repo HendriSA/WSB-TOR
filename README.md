@@ -3,6 +3,8 @@
  
  ![thumb__indows__andbox](https://user-images.githubusercontent.com/101996011/162627581-e9cd75e6-905a-463d-b3c0-941f17cadda5.png)
  
+ This is the first of many in a series of "Windows Sandbox Tools" which I plan to assemble in an attempt to allow the deployment of secure and disposable Windows Sandboxes in just seconds! In particular this variation creates a disposable Tor environment for use in infosec operations or by privacy enthusiasts. 
+ 
  ## Prerequisites:
  To utilize this script, Windows Sandbox must be enabled within "Widows Features".
  To enable this feature:
