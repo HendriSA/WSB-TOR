@@ -3,9 +3,11 @@
 <!-- PROJECT LOGO -->
 
 <br />
-<div align="center">
-  ![thumb__indows__andbox](https://user-images.githubusercontent.com/101996011/162627581-e9cd75e6-905a-463d-b3c0-941f17cadda5.png)
-</div>
+
+<p align="center">
+  <img width="400" height="400" src="https://github.com/HendriSA/WSB-TOR/blob/main/productimage.png">
+</p>
+
   <h3 align="center">WSB-TOR</h3>
 
   <p align="center">
