@@ -1,4 +1,4 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/HendriSA/WSB-TOR?color=green) ![GitHub release (latest by date)](https://img.shields.io/github/downloads/HendriSA/WSB-TOR/latest/total?color=green&label=Downloads) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/HendriSA/WSB-TOR?label=Version%201.0&logo=Tor%20Browser) 
+![GitHub repo size](https://img.shields.io/github/repo-size/HendriSA/WSB-TOR?color=green) ![GitHub release (latest by date)](https://img.shields.io/github/downloads/HendriSA/WSB-TOR/latest/total?color=green&label=Downloads) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/HendriSA/WSB-TOR?label=Version%201.0&logo=Tor%20Browser) 
 <div id="top"></div>
 <!-- PROJECT LOGO -->
 
