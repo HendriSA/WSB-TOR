@@ -5,7 +5,7 @@
 <br />
 
 <p align="center">
-  <img width="400" height="400" src="https://github.com/HendriSA/WSB-TOR/blob/main/productimage.png">
+  <img width="200" height="200" src="https://github.com/HendriSA/WSB-TOR/blob/main/productimage.png">
 </p>
 
   <h3 align="center">WSB-TOR</h3>
