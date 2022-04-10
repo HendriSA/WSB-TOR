@@ -85,7 +85,8 @@ To utilize this script, Windows Sandbox must be enabled within "Widows Features"
 2. Navigate the Setup Wizard and install the project in the desired location
 	**Note** Chaging this location will require changes to the powershell script - see <a href="#usage">Usage</a></li>
 3. Launch the application using the "WSB-TOR.wsb" shortcut.
-	**Note** Auto-starting the application post-installation will throw an error. This is benign and can be ignored. Instead use the WSB-TOR.wsb shortcut to launch your Sandbox.
+<br />
+**Note** Auto-starting the application post-installation will throw an error. This is benign and can be ignored. Instead use the WSB-TOR.wsb shortcut to launch your Sandbox.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -97,7 +98,7 @@ To utilize this script, Windows Sandbox must be enabled within "Widows Features"
 To install this project in a custom location - not the _Public Downloads_ folder:
 1. Select and install the project in the the desired location.
 2. Navigate to the location you have installed the project.
-3. Modify the Tor_Sandbox.wsb file with your desire text editor.
+3. Modify the Tor_Sandbox.wsb file with your desired text editor.
 4. Set the "Host Folder" field to your selected download location
 <p align="right">(<a href="#top">back to top</a>)</p>
 
