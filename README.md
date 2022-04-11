@@ -105,7 +105,7 @@ To install this project in a custom location - not the _Public Downloads_ folder
 
 <!-- CONTACT -->
 ## Contact
-Sam Hendrickson - [@LinkedIn](https://www.linkedin.com/in/samuel-hendrickson3/) - HendriSA@alfredstate.edu
+Sam Hendrickson - [@LinkedIn](https://www.linkedin.com/in/samuel-hendrickson3/) - samuel.a.hendrickson@gmail.com
 
 Project Link: [https://github.com/HendriSA/WSB-TOR](https://github.com/HendriSA/WSB-TOR)
 
