@@ -54,6 +54,8 @@
 ## About The Project
 This is the first of many in a series of "Windows Sandbox Tools" which I plan to assemble in an attempt to allow the deployment of secure and disposable Windows Sandboxes in under a minute! In particular, this variation creates a disposable Tor environment for use in infosec operations or by privacy enthusiasts.
 
+>Windows sandbox is temporary. When it's closed, all the software and files and the state are deleted. Software installed inside the sandbox environment remains "sandboxed" and runs separately from the host machine. You get a brand-new instance of the sandbox every time you open the application.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
