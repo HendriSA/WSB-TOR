@@ -52,7 +52,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is the first of many in a series of "Windows Sandbox Tools" which I plan to assemble in an attempt to allow the deployment of secure and disposable Windows Sandboxes in under a minute! In particular, this variation creates a disposable Tor environment for use in infosec operations or by privacy enthusiasts.
+This is the first of many in a series of "Windows Sandbox Tools" which I plan to assemble in an attempt to allow the deployment of secure and disposable Windows Sandboxes in under a minute! In particular, this variation creates a disposable Tor environment.
 
 >Windows sandbox is temporary. When it's closed, all the software and files and the state are deleted. Software installed inside the sandbox environment remains "sandboxed" and runs separately from the host machine. You get a brand-new instance of the sandbox every time you open the application.
 
@@ -68,7 +68,10 @@ This is the first of many in a series of "Windows Sandbox Tools" which I plan to
 
 
 <!-- GETTING STARTED -->
+
+
 ## Getting Started
+> **NOTE:** :warning: This tool is not meant as a replacement for tools like Tails, Whonix, or Qubes OS. If you have a high OPSEC threat model please look into other options and alternatives.
 ### Prerequisites
 To utilize this script, Windows Sandbox must be enabled within "Widows Features". To enable this feature:
 
