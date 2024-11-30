@@ -72,7 +72,7 @@ This is the first of many in a series of "Windows Sandbox Tools" which I plan to
 
 ## Getting Started
 ### Prerequisites
-> **NOTE:** :warning: This tool is not meant as a replacement for tools like Tails, Whonix, or Qubes OS. If you have a high OPSEC threat model please look into other options and alternatives.
+> **NOTE:** :warning: This tool is not meant as a replacement for tools like Tails, Whonix, or Qubes OS.
 
 To utilize this script, Windows Sandbox must be enabled within "Widows Features". To enable this feature:
 
