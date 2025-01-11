@@ -107,12 +107,5 @@ To install this project in a custom location - not the _Public Downloads_ folder
 2. Navigate to the location you have installed the project.
 3. Modify the Tor_Sandbox.wsb file with your desired text editor.
 4. Set the "Host Folder" field to your selected download location
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- CONTACT -->
-## Contact
-Sam Hendrickson - [@LinkedIn](https://www.linkedin.com/in/samuel-hendrickson3/) - samuel.a.hendrickson@gmail.com
-
-Project Link: [https://github.com/HendriSA/WSB-TOR](https://github.com/HendriSA/WSB-TOR)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
